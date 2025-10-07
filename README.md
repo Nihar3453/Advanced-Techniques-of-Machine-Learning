@@ -2,7 +2,7 @@
 
 
 
-# Advanced Machine Learning Labs and Experiments
+
 
 This repository contains a set of Jupyter notebooks for key tasks in advanced machine learning using neural networks and graph-based models. It covers:
 
