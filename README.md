@@ -6,7 +6,7 @@
 
 This repository contains a set of Jupyter notebooks for key tasks in advanced machine learning using neural networks and graph-based models. It covers:
 
--Node classification using Graph Neural Networks (GCN)
+-Node classification using Graph Neural Networks (GNN)
 
 -Image similarity detection with Siamese networks (difference vectors & cosine similarity)
 
